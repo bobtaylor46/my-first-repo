@@ -1,3 +1,4 @@
+//something went wrong, uploaded the wrong code
 #include <stdio.h>
 
 int main() {
@@ -13,4 +14,5 @@ int main() {
     for (int i = 0; A[i] != '\0'; i++){
         for (int s = 0; )
     }
+
 }
